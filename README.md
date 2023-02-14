@@ -5,4 +5,5 @@ This is a copy of Zomato landing page made using HTML and vanilla CSS, which was
 <h2>Preview here:</h2>
 <br>
 <img src="top.png">
+<img src="middle.png">
 <img src="bottom.png">
